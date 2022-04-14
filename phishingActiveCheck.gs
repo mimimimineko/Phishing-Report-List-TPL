@@ -1,11 +1,3 @@
-//https://note.com/skipla/n/n0803937a0887
-//https://tetsuooo.net/gas/604/
-//https://ja.wikipedia.org/wiki/HTTP%E3%82%B9%E3%83%86%E3%83%BC%E3%82%BF%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89
-//https://service.taksas.tech/?page_id=148
-//https://qiita.com/n0bisuke/items/a31a99232e50461eb00f
-//https://web.biz-prog.net/gas/gethtml.html#gethtml
-
-
 //列の指定
 //URLを入力する列
 let urlColumn                  =  4
